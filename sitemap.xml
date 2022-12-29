@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://dearbojack.github.io/reboot/</loc>
     <lastmod>2022-12-29T14:28:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://dearbojack.github.io/reboot/posts/</loc>
     <lastmod>2022-12-29T14:28:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/000/</loc>
+    <loc>https://dearbojack.github.io/reboot/posts/000/</loc>
     <lastmod>2022-12-29T14:28:39+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://dearbojack.github.io/reboot/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://dearbojack.github.io/reboot/tags/</loc>
   </url>
 </urlset>
