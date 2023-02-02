@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sys on 404</title>
+    <link>https://dearbojack.github.io/reboot/tags/sys/</link>
+    <description>Recent content in sys on 404</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Feb 2023 00:53:10 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/reboot/tags/sys/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>003</title>
+      <link>https://dearbojack.github.io/reboot/posts/003/</link>
+      <pubDate>Thu, 02 Feb 2023 00:53:10 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/reboot/posts/003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>002</title>
+      <link>https://dearbojack.github.io/reboot/posts/002/</link>
+      <pubDate>Thu, 02 Feb 2023 00:52:45 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/reboot/posts/002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
