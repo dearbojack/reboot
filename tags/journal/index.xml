@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>404</title>
-    <link>https://dearbojack.github.io/reboot/</link>
-    <description>Recent content on 404</description>
+    <title>journal on 404</title>
+    <link>https://dearbojack.github.io/reboot/tags/journal/</link>
+    <description>Recent content in journal on 404</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Feb 2023 07:30:53 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/reboot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Feb 2023 07:30:53 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/reboot/tags/journal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>003</title>
       <link>https://dearbojack.github.io/reboot/posts/003/</link>
@@ -33,15 +33,6 @@
       <guid>https://dearbojack.github.io/reboot/posts/001/</guid>
       <description>&lt;p&gt;星期三的早上。&lt;/p&gt;
 &lt;p&gt;今年已經過去了百分之十了。房間裏乾燥的要死，晚上鼻孔給人感覺像是喀斯特地貌，呼氣吸氣刮得鼻孔都有痛感。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://dearbojack.github.io/reboot/about/</link>
-      <pubDate>Tue, 31 Jan 2023 20:24:28 +0800</pubDate>
-      
-      <guid>https://dearbojack.github.io/reboot/about/</guid>
-      <description>作者是一個對什麽都有點好奇，但都淺嘗輒止、半途而廢的家夥。 目前“淺嘗”過的東西有，Mac自動化，Linux，Swift，SwiftUI iOS開發，HTML&amp;amp;CSS&amp;amp;Javasript，</description>
     </item>
     
   </channel>

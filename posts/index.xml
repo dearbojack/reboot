@@ -6,62 +6,33 @@
     <description>Recent content in Posts on 404</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Feb 2023 00:53:10 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/reboot/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Feb 2023 07:30:53 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/reboot/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>003</title>
       <link>https://dearbojack.github.io/reboot/posts/003/</link>
-      <pubDate>Thu, 02 Feb 2023 00:53:10 +0000</pubDate>
+      <pubDate>Fri, 10 Feb 2023 07:30:53 +0000</pubDate>
       
       <guid>https://dearbojack.github.io/reboot/posts/003/</guid>
-      <description></description>
+      <description>昨天BOOTCAMP的小組作業展演，正好沒趕上。我們小組是第九個，到了八點五十該到我們了，但是老師講不能太rush，不然對我們這個小組不太公平。所以就成了今天第一個了。我謝謝他。 不過本來以爲今天要去上</description>
     </item>
     
     <item>
       <title>002</title>
       <link>https://dearbojack.github.io/reboot/posts/002/</link>
-      <pubDate>Thu, 02 Feb 2023 00:52:45 +0000</pubDate>
+      <pubDate>Thu, 09 Feb 2023 08:27:01 +0000</pubDate>
       
       <guid>https://dearbojack.github.io/reboot/posts/002/</guid>
-      <description></description>
+      <description>繁體輸入法試了不少，看來看去還就是系統自帶的好用一些。這些日子使用下來，微軟的操作系統除了字體渲染一如既往地差，其他方面可以説是越用越順手了。不過還是會覬覦新的蘋果電腦。可能就是人内心的那種無聊的總要</description>
     </item>
     
     <item>
-      <title>日本語敬語体系</title>
-      <link>https://dearbojack.github.io/reboot/posts/japanese-preview/</link>
-      <pubDate>Wed, 10 Apr 2019 14:26:00 +0800</pubDate>
+      <title>001</title>
+      <link>https://dearbojack.github.io/reboot/posts/001/</link>
+      <pubDate>Wed, 08 Feb 2023 09:26:38 +0000</pubDate>
       
-      <guid>https://dearbojack.github.io/reboot/posts/japanese-preview/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;日本語の敬語体系は、一般に、大きく尊敬語・謙譲語・丁寧語に分類される。文化審議会国語分科会は、2007年2月に「敬語の指針」を答申し、これに丁重語および美化語を含めた5分類を示している。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1 id=&#34;尊敬語&#34;&gt;尊敬語&lt;/h1&gt;
-&lt;p&gt;尊敬語は、動作の主体を高めることで、主体への敬意を表す言い方である。動詞に「お（ご）～になる」を付けた形、また、助動詞「（ら）れる」を付けた形などが用いられる。たとえば、動詞「取る」の尊敬形として、「（先生が）お取りになる」「（先生が）取られる」などが用いられる。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>https://dearbojack.github.io/reboot/posts/english-preview/</link>
-      <pubDate>Mon, 01 Apr 2019 14:26:00 +0800</pubDate>
-      
-      <guid>https://dearbojack.github.io/reboot/posts/english-preview/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Theme Preview</title>
-      <link>https://dearbojack.github.io/reboot/posts/theme-preview/</link>
-      <pubDate>Sun, 31 Mar 2019 17:49:40 +0800</pubDate>
-      
-      <guid>https://dearbojack.github.io/reboot/posts/theme-preview/</guid>
-      <description>&lt;h1 id=&#34;headings&#34;&gt;Headings&lt;/h1&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;# H1
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;&lt;/span&gt;&lt;span class=&#34;gu&#34;&gt;## H2
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;### H3
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;#### H4
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;##### H5
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;###### H6
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <guid>https://dearbojack.github.io/reboot/posts/001/</guid>
+      <description>&lt;p&gt;星期三的早上。&lt;/p&gt;
+&lt;p&gt;今年已經過去了百分之十了。房間裏乾燥的要死，晚上鼻孔給人感覺像是喀斯特地貌，呼氣吸氣刮得鼻孔都有痛感。&lt;/p&gt;</description>
     </item>
     
   </channel>
