@@ -5,15 +5,24 @@
     <link>https://dearbojack.github.io/reboot/</link>
     <description>Recent content on 404</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 10 Feb 2023 07:30:53 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/reboot/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 11 Feb 2023 09:07:02 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/reboot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>004</title>
+      <link>https://dearbojack.github.io/reboot/posts/004/</link>
+      <pubDate>Sat, 11 Feb 2023 09:07:02 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/reboot/posts/004/</guid>
+      <description>&lt;p&gt;星期六的早上，還是四點多快五點就醒了，我這個生物鐘應該是上夜班上的壞掉了。可能得買點助眠的藥吃了。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>003</title>
       <link>https://dearbojack.github.io/reboot/posts/003/</link>
       <pubDate>Fri, 10 Feb 2023 07:30:53 +0000</pubDate>
       
       <guid>https://dearbojack.github.io/reboot/posts/003/</guid>
-      <description>昨天BOOTCAMP的小組作業展演，正好沒趕上。我們小組是第九個，到了八點五十該到我們了，但是老師講不能太rush，不然對我們這個小組不太公平。所以就成了今天第一個了。我謝謝他。 不過本來以爲今天要去上</description>
+      <description>&lt;p&gt;昨天 BOOTCAMP 的小組作業展演，正好沒趕上。我們小組是第九個，到了八點五十該到我們了，但是老師講不能太 rush，不然對我們這個小組不太公平。所以就成了今天第一個了。我謝謝他。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -22,7 +31,7 @@
       <pubDate>Thu, 09 Feb 2023 08:27:01 +0000</pubDate>
       
       <guid>https://dearbojack.github.io/reboot/posts/002/</guid>
-      <description>繁體輸入法試了不少，看來看去還就是系統自帶的好用一些。這些日子使用下來，微軟的操作系統除了字體渲染一如既往地差，其他方面可以説是越用越順手了。不過還是會覬覦新的蘋果電腦。可能就是人内心的那種無聊的總要</description>
+      <description>&lt;p&gt;繁體輸入法試了不少，看來看去還就是系統自帶的好用一些。這些日子使用下來，微軟的操作系統除了字體渲染一如既往地差，其他方面可以説是越用越順手了。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -36,12 +45,12 @@
     </item>
     
     <item>
-      <title>Hello World</title>
+      <title>嗨</title>
       <link>https://dearbojack.github.io/reboot/about/</link>
       <pubDate>Tue, 31 Jan 2023 20:24:28 +0800</pubDate>
       
       <guid>https://dearbojack.github.io/reboot/about/</guid>
-      <description>作者是一個對什麽都有點好奇，但都淺嘗輒止、半途而廢的家夥。 目前“淺嘗”過的東西有，Mac自動化，Linux，Swift，SwiftUI iOS開發，HTML&amp;amp;CSS&amp;amp;Javasript，</description>
+      <description>這裏的大多數東西都沒有什麽太大的意義，尤其是#journal標簽下的東西。 作者是一個對什麽都有點好奇，但都淺嘗輒止、半途而廢的家夥。一大把年紀一事無成，現居英國。</description>
     </item>
     
   </channel>
