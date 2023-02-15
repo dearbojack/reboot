@@ -5,15 +5,44 @@
     <link>https://dearbojack.github.io/reboot/</link>
     <description>Recent content on 404</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Sat, 11 Feb 2023 09:07:02 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/reboot/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Feb 2023 22:40:50 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/reboot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>006</title>
+      <link>https://dearbojack.github.io/reboot/posts/006/</link>
+      <pubDate>Wed, 15 Feb 2023 22:40:50 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/reboot/posts/006/</guid>
+      <description>&lt;p&gt;早上四五點下樓，睡不着。沒有帶手柄，所以就索性把這周的前端的課程作業做了。是用 &lt;code&gt;node.js&lt;/code&gt; 的一個包做一個命令行的 README 生成器。&lt;/p&gt;
+&lt;p&gt;中午吃了土豆絲，裏面的小辣椒超級辣。下午去了 Lidl ，買了一些東西。外面天氣不冷，已經開始猶豫要不要穿羽絨服了。&lt;/p&gt;
+&lt;p&gt;晚上吃的方便麪，加了意大利麪，不得不說這裏的意大利麪很勁道，有點像硬硬的米粉。&lt;/p&gt;
+&lt;p&gt;晚上的前端課程繼續講 &lt;code&gt;node.js&lt;/code&gt;，聽得有點雲裏霧裏。&lt;/p&gt;
+&lt;p&gt;打了很長時間的死亡擱淺，送快遞有點 boring 了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>005</title>
+      <link>https://dearbojack.github.io/reboot/posts/005/</link>
+      <pubDate>Tue, 14 Feb 2023 19:16:08 +0000</pubDate>
+      
+      <guid>https://dearbojack.github.io/reboot/posts/005/</guid>
+      <description>&lt;p&gt;聖瓦倫丁節。彪子一直拉着個臉。也不知道是爲什麼。&lt;/p&gt;
+&lt;p&gt;開始用標籤來記錄一下我們吃的東西。如果數據多了應該還挺有意思。&lt;/p&gt;
+&lt;p&gt;睡到很晚，晚上有前端的課，講的是 ES6 的一些變化的東西，比如 &lt;code&gt;var&lt;/code&gt; &lt;code&gt;const&lt;/code&gt; &lt;code&gt;let&lt;/code&gt;，比如 template literals，比如 arrow function 等等。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>004</title>
       <link>https://dearbojack.github.io/reboot/posts/004/</link>
       <pubDate>Sat, 11 Feb 2023 09:07:02 +0000</pubDate>
       
       <guid>https://dearbojack.github.io/reboot/posts/004/</guid>
-      <description>&lt;p&gt;星期六的早上，還是四點多快五點就醒了，我這個生物鐘應該是上夜班上的壞掉了。可能得買點助眠的藥吃了。&lt;/p&gt;</description>
+      <description>&lt;p&gt;星期六的早上，還是四點多快五點就醒了，我這個生物鐘應該是上夜班上的壞掉了。可能得買點助眠的藥吃了。&lt;/p&gt;
+&lt;p&gt;昨天沒有上班，做了豆角炒意大利麵吃，味道很不錯。然後發現了一個訣竅，&lt;strong&gt;拌麵在鍋裏多拌一會就成了炒麵&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;晚上做了前端訓練營的展演，最後項目得了兩個第二，但是實用性只得了三票，哈哈。看來解決的問題不夠實際，沒什麽人會用。但我個人覺得還好啊，如果研究某個國家某個時期的專家，也還是可能會用到的啊。&lt;/p&gt;
+&lt;p&gt;比如我對60年代美國如何報道中國的情況還是很感興趣的，就可以用一用。&lt;/p&gt;
+&lt;p&gt;Anyway，這個事情已經告一段落。接下來要學習 Node.js 和 React 了。繼續加油吧。&lt;/p&gt;
+&lt;p&gt;昨天有個助教還談到接下來的六個禮拜以及可以開始找工作了，準備簡歷，準備 Linkedin 等等，這個事情我一直在逃避。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -22,7 +51,12 @@
       <pubDate>Fri, 10 Feb 2023 07:30:53 +0000</pubDate>
       
       <guid>https://dearbojack.github.io/reboot/posts/003/</guid>
-      <description>&lt;p&gt;昨天 BOOTCAMP 的小組作業展演，正好沒趕上。我們小組是第九個，到了八點五十該到我們了，但是老師講不能太 rush，不然對我們這個小組不太公平。所以就成了今天第一個了。我謝謝他。&lt;/p&gt;</description>
+      <description>&lt;p&gt;昨天 BOOTCAMP 的小組作業展演，正好沒趕上。我們小組是第九個，到了八點五十該到我們了，但是老師講不能太 rush，不然對我們這個小組不太公平。所以就成了今天第一個了。我謝謝他。&lt;/p&gt;
+&lt;p&gt;不過本來以爲今天要去上班，但是發現今天倉庫 SHUTDOWN，無需上班，也就不需要請假了。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;the best thing in life is you thought it was working day but it turned out you don&amp;rsquo;t have to work&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;晚上又是三點多醒過來。沒什麽可做的，刷 GPT，問了問怎麽學習 ReactJS，以及它和 React Native 的關係。我發現這種通過提問來學習的方式效率挺高的，因爲這些問題其實是你已經通過一定的思考之後，想出來的需要解決的問題。這些問題一旦解決之後，你就可以繼續你自己計劃想好要做的事情了，比如直接上手開始做。這樣學起來的效率比從零開始看書上課效率高多了。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -31,7 +65,9 @@
       <pubDate>Thu, 09 Feb 2023 08:27:01 +0000</pubDate>
       
       <guid>https://dearbojack.github.io/reboot/posts/002/</guid>
-      <description>&lt;p&gt;繁體輸入法試了不少，看來看去還就是系統自帶的好用一些。這些日子使用下來，微軟的操作系統除了字體渲染一如既往地差，其他方面可以説是越用越順手了。&lt;/p&gt;</description>
+      <description>&lt;p&gt;繁體輸入法試了不少，看來看去還就是系統自帶的好用一些。這些日子使用下來，微軟的操作系統除了字體渲染一如既往地差，其他方面可以説是越用越順手了。&lt;/p&gt;
+&lt;p&gt;不過還是會覬覦新的蘋果電腦。可能就是人内心的那種無聊的總要買些新東西的欲望的吧。&lt;/p&gt;
+&lt;p&gt;人是最受不了無聊的。一旦生活歸於千篇一律的樣子，就會想著找點什麽新東西。叔本華說的好啊，人生就在痛苦和無聊之間搖擺。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -41,7 +77,10 @@
       
       <guid>https://dearbojack.github.io/reboot/posts/001/</guid>
       <description>&lt;p&gt;星期三的早上。&lt;/p&gt;
-&lt;p&gt;今年已經過去了百分之十了。房間裏乾燥的要死，晚上鼻孔給人感覺像是喀斯特地貌，呼氣吸氣刮得鼻孔都有痛感。&lt;/p&gt;</description>
+&lt;p&gt;今年已經過去了百分之十了。房間裏乾燥的要死，晚上鼻孔給人感覺像是喀斯特地貌，呼氣吸氣刮得鼻孔都有痛感。&lt;/p&gt;
+&lt;p&gt;晚上沒有睡好，做了個奇奇怪怪的夢。正要跟人打起來的時候就醒了。應該是昨天上完夜班，今天時差還沒倒過來。昨天晚上的前端課程做小組項目搞到很晚，看到後面頭都有點暈了。最後想想已經不錯了，&lt;em&gt;除了已知的bug沒有別的什麽問題了&lt;/em&gt;。&lt;/p&gt;
+&lt;p&gt;四點多就起來下樓去了，想做一個人生進度的網站，剛剛做了個開頭，然後想想搜了一下，發現已經有人做出來好幾年了，我還想著可以賺點贊賞呢。異想天開。看別人的代碼，想想自己就連這也得寫個好多天。又有&lt;strong&gt;半途而廢&lt;/strong&gt;的念頭了。&lt;/p&gt;
+&lt;p&gt;然後就去玩《死亡擱淺》送快遞了。&lt;/p&gt;</description>
     </item>
     
     <item>
