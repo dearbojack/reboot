@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>地三鮮 on 404</title>
-    <link>https://dearbojack.github.io/reboot/tags/%E5%9C%B0%E4%B8%89%E9%AE%AE/</link>
-    <description>Recent content in 地三鮮 on 404</description>
+    <title>蝦仁芹菜 on 404</title>
+    <link>https://dearbojack.github.io/reboot/tags/%E8%9D%A6%E4%BB%81%E8%8A%B9%E8%8F%9C/</link>
+    <description>Recent content in 蝦仁芹菜 on 404</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Feb 2023 14:56:53 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/reboot/tags/%E5%9C%B0%E4%B8%89%E9%AE%AE/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Feb 2023 14:56:53 +0000</lastBuildDate><atom:link href="https://dearbojack.github.io/reboot/tags/%E8%9D%A6%E4%BB%81%E8%8A%B9%E8%8F%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>近況</title>
       <link>https://dearbojack.github.io/reboot/posts/013/</link>
@@ -30,17 +30,6 @@
 &lt;p&gt;同時下載了 Android Studio，記得 Jetpack Compose 和 SwiftUI 差不多，所以打算一起玩一玩。&lt;/p&gt;
 &lt;p&gt;與此同時，還在一直玩《死亡擱淺》，已經到了第七章，雪山真不是人跑的地圖，幸好有滑索，搭建好了再送貨。第七章被風暴捲到了又一個戰區，需要打 BOSS 了。先放下了，沒時間了。&lt;/p&gt;
 &lt;p&gt;接下來幾天主要捱過夜班。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>005</title>
-      <link>https://dearbojack.github.io/reboot/posts/005/</link>
-      <pubDate>Tue, 14 Feb 2023 19:16:08 +0000</pubDate>
-      
-      <guid>https://dearbojack.github.io/reboot/posts/005/</guid>
-      <description>&lt;p&gt;聖瓦倫丁節。彪子一直拉着個臉。也不知道是爲什麼。&lt;/p&gt;
-&lt;p&gt;開始用標籤來記錄一下我們吃的東西。如果數據多了應該還挺有意思。&lt;/p&gt;
-&lt;p&gt;睡到很晚，晚上有前端的課，講的是 ES6 的一些變化的東西，比如 &lt;code&gt;var&lt;/code&gt; &lt;code&gt;const&lt;/code&gt; &lt;code&gt;let&lt;/code&gt;，比如 template literals，比如 arrow function 等等。&lt;/p&gt;</description>
     </item>
     
   </channel>
